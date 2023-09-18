@@ -36,6 +36,12 @@ Clone The Project
   git clone https://github.com/IA3TheDev-il/Anti-Afk
 ```
 
+Install Dependencies
+
+```bash
+  pip3 install -r requirements.txt
+```
+
 Go To The Project Directory
 
 ```bash
